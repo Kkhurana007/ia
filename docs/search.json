@@ -1,0 +1,177 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "As an insurance advisor, I am dedicated to helping clients find the best coverage to protect their assets and secure their future. My goal is to provide personalized solutions and expert guidance to ensure peace of mind for every individual and family I serve"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "website",
+    "section": "",
+    "text": "No matching items"
+  },
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "aboutia.html",
+    "href": "aboutia.html",
+    "title": "link to their website",
+    "section": "",
+    "text": "link to their website"
+  },
+  {
+    "objectID": "contactme.html",
+    "href": "contactme.html",
+    "title": "web form here",
+    "section": "",
+    "text": "web form here"
+  },
+  {
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "Post With Code",
+    "section": "",
+    "text": "This is a post with executable code."
+  },
+  {
+    "objectID": "posts/fr.html",
+    "href": "posts/fr.html",
+    "title": "Posts en français",
+    "section": "",
+    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/fr.html#posts-en-français",
+    "href": "posts/fr.html#posts-en-français",
+    "title": "Posts en français",
+    "section": "",
+    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/en.html",
+    "href": "posts/en.html",
+    "title": "All posts",
+    "section": "",
+    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\n\n1 min\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\nHarlow Malloc\n\n\nJun 8, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n1 min\n\n\n\nnews\n\n\n\n\nTristan O’Malley\n\n\nJun 5, 2024\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/en.html#all-posts",
+    "href": "posts/en.html#all-posts",
+    "title": "All posts",
+    "section": "",
+    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\n\n1 min\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\nHarlow Malloc\n\n\nJun 8, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n1 min\n\n\n\nnews\n\n\n\n\nTristan O’Malley\n\n\nJun 5, 2024\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/index.html",
+    "href": "posts/index.html",
+    "title": "Recent posts",
+    "section": "",
+    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nPost With Code\n\n\n\nJun 8, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\nJun 5, 2024\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "products/travel.html",
+    "href": "products/travel.html",
+    "title": "Travel",
+    "section": "",
+    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "products/travel.html#all-products",
+    "href": "products/travel.html#all-products",
+    "title": "Travel",
+    "section": "",
+    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "products/other_prodcuts.html",
+    "href": "products/other_prodcuts.html",
+    "title": "Other Products",
+    "section": "",
+    "text": "::: {#Other Prodcuts} :::"
+  },
+  {
+    "objectID": "products/other_prodcuts.html#all-products",
+    "href": "products/other_prodcuts.html#all-products",
+    "title": "Other Products",
+    "section": "",
+    "text": "::: {#Other Prodcuts} :::"
+  },
+  {
+    "objectID": "products/home.html",
+    "href": "products/home.html",
+    "title": "Home",
+    "section": "",
+    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "products/home.html#all-products",
+    "href": "products/home.html#all-products",
+    "title": "Home",
+    "section": "",
+    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "products/accident.html",
+    "href": "products/accident.html",
+    "title": "Accident",
+    "section": "",
+    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "products/accident.html#all-products",
+    "href": "products/accident.html#all-products",
+    "title": "Accident",
+    "section": "",
+    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "products/auto.html",
+    "href": "products/auto.html",
+    "title": "Auto",
+    "section": "",
+    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "products/auto.html#all-products",
+    "href": "products/auto.html#all-products",
+    "title": "Auto",
+    "section": "",
+    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "products/life.html",
+    "href": "products/life.html",
+    "title": "Life",
+    "section": "",
+    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "products/life.html#all-products",
+    "href": "products/life.html#all-products",
+    "title": "Life",
+    "section": "",
+    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "products/protection_plans.html",
+    "href": "products/protection_plans.html",
+    "title": "Protection Plans",
+    "section": "",
+    "text": "::: {#Protection Plans} :::"
+  },
+  {
+    "objectID": "products/protection_plans.html#all-products",
+    "href": "products/protection_plans.html#all-products",
+    "title": "Protection Plans",
+    "section": "",
+    "text": "::: {#Protection Plans} :::"
+  }
+]

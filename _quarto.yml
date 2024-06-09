@@ -1,0 +1,74 @@
+project: 
+  type: website
+  output-dir: docs
+  preview:
+    port: 4200
+
+
+website:
+  title: "iA"
+  navbar:
+    background: primary
+    search: true
+    left:
+      - text: "Homepage"
+        href: index.qmd
+      - text: Posts
+        menu:
+          - text: All posts
+            href: posts\index.qmd
+          - text: English
+            href: posts\en.qmd
+          - text: French
+            href: posts\fr.qmd
+      - text: Products
+        menu: 
+          - text: Auto
+            href: products\auto.qmd
+          - text: Home
+            href: products\home.qmd
+          - text: "Travel"
+            href: products\travel.qmd
+          - text: "Life"
+            href: products\life.qmd
+          - text: "Accident & Health"
+            href: products\accident.qmd
+          - text: "Protection Plans"
+            href: products\protection_plans.qmd
+          - text: "Other Products & Services"
+            href: products\other_products.qmd
+      - text: "Insurance"
+        href: insurance.qmd
+      - text: "Customer"
+        href: customer.qmd
+      - text: "Claims"
+        href: claims.qmd
+  page-footer: 
+    left: "Copyright 2024, Made by [Kunal Khurana](https://ilovesoils.com/about.html)"
+    right:
+      - text: "About iA"
+        href: aboutia.qmd
+      - text: Contact me
+        href: contactme.qmd
+      - icon: envelope
+        href: mailto:Khuranasoilpau@gmail.com
+  
+  reader-mode: true
+
+format:
+  html:
+    smooth-scroll: true
+    css: styles.css
+    link-external-icon: false
+    link-external-newwindow: true
+    citations-hover: true
+    footnotes-hover: true
+    toc: true
+    code-link: true
+  pdf:
+    documentclass: scrreprt
+
+
+
+
+    

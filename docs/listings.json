@@ -1,0 +1,52 @@
+[
+  {
+    "listing": "/index.html",
+    "items": []
+  },
+  {
+    "listing": "/posts/fr.html",
+    "items": []
+  },
+  {
+    "listing": "/posts/en.html",
+    "items": [
+      "/posts/post-with-code/index.html",
+      "/posts/welcome/index.html"
+    ]
+  },
+  {
+    "listing": "/posts/index.html",
+    "items": [
+      "/posts/post-with-code/index.html",
+      "/posts/welcome/index.html"
+    ]
+  },
+  {
+    "listing": "/products/travel.html",
+    "items": []
+  },
+  {
+    "listing": "/products/other_prodcuts.html",
+    "items": []
+  },
+  {
+    "listing": "/products/home.html",
+    "items": []
+  },
+  {
+    "listing": "/products/accident.html",
+    "items": []
+  },
+  {
+    "listing": "/products/auto.html",
+    "items": []
+  },
+  {
+    "listing": "/products/life.html",
+    "items": []
+  },
+  {
+    "listing": "/products/protection_plans.html",
+    "items": []
+  }
+]
