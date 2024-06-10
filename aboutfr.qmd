@@ -1,0 +1,20 @@
+---
+title: "Français"
+image: Kunal_pic.jpeg
+about:
+  template: jolla
+  links:
+    - icon: envelope
+      text: Courriel
+      href: mailto:Khuranasoilpau@gmail.com
+    - icon: linkedin
+      text: LinkedIn
+      href: https://linkedin.com/in/khuranasoils 
+
+---
+
+---
+
+En tant que conseiller en assurances, je suis dédié à aider les clients à trouver la meilleure couverture pour protéger leurs biens et sécuriser leur avenir. Mon objectif est de fournir des solutions personnalisées et des conseils d'expert pour assurer la tranquillité d'esprit de chaque individu et de chaque famille que je sers!
+
+---

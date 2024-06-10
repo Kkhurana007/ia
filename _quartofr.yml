@@ -11,37 +11,37 @@ website:
     background: primary
     search: true
     left:
-      - text: "Homepage"
+      - text: "Page d'accueil"
         href: index.qmd
-      - text: Posts
+      - text: Postes
         menu:
-          - text: All posts
+          - text: toutes les postes
             href: posts\index.qmd
           - text: English
             href: posts\en.qmd
-          - text: French
+          - text: Français
             href: posts\fr.qmd
-      - text: Products
+      - text: Produits
         menu: 
-          - text: Auto
+          - text: Voiture
             href: products\auto.qmd
-          - text: Home
+          - text: Maison
             href: products\home.qmd
-          - text: "Travel"
+          - text: Voyage
             href: products\travel.qmd
-          - text: "Life"
+          - text: Vie
             href: products\life.qmd
-          - text: "Accident & Health"
+          - text: Accident et Santé
             href: products\accident.qmd
-          - text: "Protection Plans"
+          - text: Plan de protection
             href: products\protection_plans.qmd
-          - text: "Other Products & Services"
+          - text: Autres produtis et services
             href: products\other_products.qmd
-      - text: "Insurance"
+      - text: Assurance
         href: insurance.qmd
-      - text: "Customer"
+      - text: Client(e)
         href: customer.qmd
-      - text: "Claims"
+      - text: Réclamations
         href: claims.qmd
     
     right:
@@ -72,8 +72,3 @@ format:
     code-link: true
   pdf:
     documentclass: scrreprt
-
-
-
-
-    

@@ -1,21 +1,20 @@
 ---
 title: "About"
-image: profile.jpg
+image: Kunal_pic.jpeg
 about:
   template: jolla
   links:
-    - icon: twitter
-      text: Twitter
-      href: https://twitter.com
+    - icon: envelope
+      text: Email
+      href: mailto:Khuranasoilpau@gmail.com
     - icon: linkedin
       text: LinkedIn
-      href: https://linkedin.com
-    - icon: github
-      text: Github
-      href: https://github.com
+      href: https://linkedin.com/in/khuranasoils 
 
 ---
 
-As an insurance advisor, I am dedicated to helping clients find the best coverage to protect their assets and secure their future. My goal is to provide personalized solutions and expert guidance to ensure peace of mind for every individual and family I serve
+---
+
+As an insurance advisor, I am dedicated to helping clients find the best coverage to protect their assets and secure their future. My goal is to provide personalized solutions and expert guidance to ensure peace of mind for every individual and family I serve!
 
 ---

@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>InsuranceIA – contactme</title>
+<title>iA – contactme</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -66,11 +66,13 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+<style>html{ scroll-behavior: smooth; }</style>
 
 
+<link rel="stylesheet" href="styles.css">
 </head>
 
-<body class="nav-fixed fullcontent">
+<body class="nav-fixed">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
@@ -78,7 +80,7 @@ ul.task-list li input[type="checkbox"] {
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
     <a class="navbar-brand" href="./index.html">
-    <span class="navbar-title">InsuranceIA</span>
+    <span class="navbar-title">iA</span>
     </a>
   </div>
             <div id="quarto-search" class="" title="Search"></div>
@@ -110,16 +112,47 @@ ul.task-list li input[type="checkbox"] {
   </li>  
     </ul>
   </li>
-  <li class="nav-item">
-    <a class="nav-link" href="./products.html"> 
-<span class="menu-text">Products</span></a>
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-products" role="link" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">Products</span>
+    </a>
+    <ul class="dropdown-menu" aria-labelledby="nav-menu-products">    
+        <li>
+    <a class="dropdown-item" href="./products/auto.html">
+ <span class="dropdown-text">Auto</span></a>
   </li>  
+        <li>
+    <a class="dropdown-item" href="./products/home.html">
+ <span class="dropdown-text">Home</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./products/travel.html">
+ <span class="dropdown-text">Travel</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./products/life.html">
+ <span class="dropdown-text">Life</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./products/accident.html">
+ <span class="dropdown-text">Accident &amp; Health</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./products/protection_plans.html">
+ <span class="dropdown-text">Protection Plans</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./products_products.qmd">
+ <span class="dropdown-text">Other Products &amp; Services</span></a>
+  </li>  
+    </ul>
+  </li>
   <li class="nav-item">
     <a class="nav-link" href="./insurance.html"> 
 <span class="menu-text">Insurance</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./cusotmer.qmd"> 
+    <a class="nav-link" href="./customer.html"> 
 <span class="menu-text">Customer</span></a>
   </li>  
   <li class="nav-item">
@@ -127,13 +160,14 @@ ul.task-list li input[type="checkbox"] {
 <span class="menu-text">Claims</span></a>
   </li>  
 </ul>
+            <ul class="navbar-nav navbar-nav-scroll ms-auto">
+  <li class="nav-item">
+    <a class="nav-link" href="./about.html"> 
+<span class="menu-text">About</span></a>
+  </li>  
+</ul>
           </div> <!-- /navcollapse -->
             <div class="quarto-navbar-tools">
-  <a href="" class="quarto-reader-toggle quarto-navigation-tool px-1" onclick="window.quartoToggleReader(); return false;" title="Toggle reader mode">
-  <div class="quarto-reader-toggle-btn">
-  <i class="bi"></i>
-  </div>
-</a>
 </div>
       </div> <!-- /container-fluid -->
     </nav>
@@ -142,7 +176,15 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#web-form-here" id="toc-web-form-here" class="nav-link active" data-scroll-target="#web-form-here">web form here</a></li>
+  </ul>
+<div class="quarto-alternate-formats"><h2>Other Formats</h2><ul><li><a href="contactme.pdf"><i class="bi bi-file-pdf"></i>PDF</a></li></ul></div></nav>
+    </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
@@ -262,6 +304,11 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
         if (link.dataset.originalHref !== undefined) {
           link.href = link.dataset.originalHref;
         }
+          // target, if specified
+          link.setAttribute("target", "_blank");
+          if (link.getAttribute("rel") === null) {
+            link.setAttribute("rel", "noopener");
+          }
       }
     }
   function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
@@ -611,4 +658,5 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 
 
 
+<script src="site_libs/quarto-html/zenscroll-min.js"></script>
 </body></html>

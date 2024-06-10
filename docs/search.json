@@ -4,7 +4,7 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "As an insurance advisor, I am dedicated to helping clients find the best coverage to protect their assets and secure their future. My goal is to provide personalized solutions and expert guidance to ensure peace of mind for every individual and family I serve"
+    "text": "As an insurance advisor, I am dedicated to helping clients find the best coverage to protect their assets and secure their future. My goal is to provide personalized solutions and expert guidance to ensure peace of mind for every individual and family I serve!"
   },
   {
     "objectID": "index.html",
@@ -173,5 +173,12 @@
     "title": "Protection Plans",
     "section": "",
     "text": "::: {#Protection Plans} :::"
+  },
+  {
+    "objectID": "aboutfr.html",
+    "href": "aboutfr.html",
+    "title": "About",
+    "section": "",
+    "text": "En tant que conseiller en assurances, je suis dédié à aider les clients à trouver la meilleure couverture pour protéger leurs biens et sécuriser leur avenir. Mon objectif est de fournir des solutions personnalisées et des conseils d’expert pour assurer la tranquillité d’esprit de chaque individu et de chaque famille que je sers!"
   }
 ]

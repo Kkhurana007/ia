@@ -2,9 +2,7 @@
 title: "Posts en français"
 listing:
   - id: posts-fr
-    contents: 
-    - "introgit.ipynb"
-    - "exogit.ipynb"
+    contents: auto
     type: grid
     fields: [image, date, title, subtitle, categories, author, reading-time]  
     sort: "date desc"
